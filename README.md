@@ -15,9 +15,10 @@ Steps:
 ---
 
 More instructions:
-1. https://hugoloveit.com/theme-documentation-basics/
-2. https://hugoloveit.com/theme-documentation-content/
-3. https://gohugo.io/getting-started/installing/#scoop-windows
-4. https://scoop.sh/
-5. https://formulae.brew.sh/formula/hugo
-6. For local development add hugo.exe executable to PATH.
+1. https://github.com/dillonzq/LoveIt
+2. https://hugoloveit.com/theme-documentation-basics/
+3. https://hugoloveit.com/theme-documentation-content/
+4. https://gohugo.io/getting-started/installing/#scoop-windows
+5. https://scoop.sh/
+6. https://formulae.brew.sh/formula/hugo
+7. For local development add hugo.exe executable to PATH.
