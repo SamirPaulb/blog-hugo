@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "/blog"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
@@ -619,3 +619,4 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
   taxonomyTerm = ["HTML"]
+
