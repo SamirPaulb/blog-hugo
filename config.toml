@@ -4,7 +4,7 @@ baseURL = "http://example.org/"
 theme = "LoveIt"
 
 # website title
-title = "My New Hugo Site"
+title = "Samir Paul - Technical Blog"
 
 # language code ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "en"
@@ -16,7 +16,7 @@ hasCJKLanguage = false
 # default amount of posts in each pages
 paginate = 12
 # google analytics code [UA-XXXXXXXX-X]
-googleAnalytics = ""
+googleAnalytics = "323487609"
 # copyright description used only for seo schema
 copyright = ""
 
@@ -32,9 +32,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
 # Author config
 [author]
-  name = "xxxx"
+  name = "Samir Paul"
   email = ""
-  link = ""
+  link = "https://twitter.com/intent/follow?screen_name=SamirPaulb"
 
 # Menu config
 [menu]
@@ -48,7 +48,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     name = "Posts"
     url = "/posts/"
     # title will be shown when you hover on this menu link
-    title = ""
+    title = "View All Posts"
   [[menu.main]]
     weight = 2
     identifier = "tags"
@@ -56,7 +56,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     post = ""
     name = "Tags"
     url = "/tags/"
-    title = ""
+    title = "Post Tags"
   [[menu.main]]
     weight = 3
     identifier = "categories"
@@ -64,7 +64,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     post = ""
     name = "Categories"
     url = "/categories/"
-    title = ""
+    title = "Post Categories"
 
 [params]
   # site default theme ["auto", "light", "dark"]
@@ -77,11 +77,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   #  date format
   dateFormat = "2006-01-02"
   # website title for Open Graph and Twitter Cards
-  title = "My cool site"
+  title = "Samir Paul - Technical Blog"
   # website description for RSS, SEO, Open Graph and Twitter Cards
-  description = "This is my cool site"
+  description = "Technical blog made by developer for developers. Computer Science, Data Structures Algorithms, Networking, Artificial Intelligence and Coding Interview Prep."
   # website images for Open Graph and Twitter Cards
-  images = ["/logo.png"]
+  images = ["logo.png"]
 
   # Header config
   [params.header]
@@ -92,9 +92,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     #  Header title config
     [params.header.title]
       # URL of the LOGO
-      logo = ""
+      logo = "logo.png"
       # title name
-      name = ""
+      name = "Samir Paul"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -108,7 +108,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     #  Custom content (HTML format is supported)
     custom = ''
     #  whether to show Hugo and theme info
-    hugo = true
+    hugo = false
     #  whether to show copyright info
     copyright = true
     #  whether to show the author
@@ -183,13 +183,13 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     [params.home.profile]
       enable = true
       # Gravatar Email for preferred avatar in home page
-      gravatarEmail = ""
+      gravatarEmail = "samirpaulb@gmail.com"
       # URL of avatar shown in home page
-      avatarURL = "/images/avatar.png"
+      avatarURL = "avatar.png"
       #  title shown in home page (HTML format is supported)
-      title = ""
+      title = "Software Developer"
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "This is My New Hugo Site"
+      subtitle = "Tools and technology expires fast, but the experience remains."
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
@@ -207,12 +207,12 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   # Social config about the author
   [params.social]
-    GitHub = "xxxx"
-    Linkedin = ""
-    Twitter = "xxxx"
-    Instagram = "xxxx"
-    Facebook = "xxxx"
-    Telegram = "xxxx"
+    GitHub = "SamirPaul1"
+    Linkedin = "SamirPaul"
+    Twitter = "SamirPaulb"
+    Instagram = "SamirPaulb"
+    Facebook = "SamirPaulb"
+    Telegram = ""
     Medium = ""
     Gitlab = ""
     Youtubelegacy = ""
@@ -280,7 +280,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     HackTheBox = ""
     RootMe= ""
     Phone = ""
-    Email = "xxxx@xxxx.com"
+    Email = ""
     RSS = true # 
 
   #  Page global config
@@ -351,12 +351,12 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       enable = true
       Twitter = true
       Facebook = true
-      Linkedin = false
-      Whatsapp = false
-      Pinterest = false
-      Tumblr = false
+      Linkedin = true
+      Whatsapp = true
+      Pinterest = true
+      Tumblr = true
       HackerNews = true
-      Reddit = false
+      Reddit = true
       VK = false
       Buffer = false
       Xing = false
@@ -378,9 +378,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Disqus comment config
       [params.page.comment.disqus]
         # 
-        enable = false
+        enable = true
         # Disqus shortname to use Disqus in posts
-        shortname = ""
+        shortname = "samirpaul"
       # Gitalk comment config
       [params.page.comment.gitalk]
         # 
@@ -492,18 +492,18 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   # Site verification code config for Google/Bing/Yandex/Pinterest/Baidu
   [params.verification]
-    google = ""
-    bing = ""
-    yandex = ""
-    pinterest = ""
+    google = "vJAOBxbJTCK2vXG-hLFeGsoC9hXgFlCpuJJ8AcJLROQ"
+    bing = "1A92FC2EC113F8616A21D76DA684A133"
+    yandex = "fe6a06c57be84984"
+    pinterest = "24bac6e1fbf1750de40d59bb788d9dd9"
     baidu = ""
 
   #  Site SEO config
   [params.seo]
     # image URL
-    image = ""
+    image = "banner.jpg"
     # thumbnail URL
-    thumbnailUrl = ""
+    thumbnailUrl = "banner.jpg"
 
   #  Analytics config
   [params.analytics]
@@ -527,7 +527,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   #  Cookie consent config
   [params.cookieconsent]
-    enable = true
+    enable = false
     # text strings used for Cookie consent banner
     [params.cookieconsent.content]
       message = ""
