@@ -2871,7 +2871,6 @@ say for 3-10 minutes when he asks you that say something about the project.</li>
     <description><![CDATA[<div class="featured-image">
                 <img src="https://raw.githubusercontent.com/SamirPaulb/assets/main/Getting-Started-with-System-Design-samirpaulb-assets.png" referrerpolicy="no-referrer">
             </div><h1 id="system-design-course">System Design Course</h1>
-<p><sup><sup> Blog Disclaimer: This webpage is a modification of <a href="https://github.com/karanpratapsingh" target="_blank" rel="noopener noreffer ">@karanpratapsingh</a>&rsquo;s <a href="https://github.com/karanpratapsingh/system-design" target="_blank" rel="noopener noreffer ">system-design</a> repository with <a href="https://github.com/karanpratapsingh/system-design/commits/main/LICENSE" target="_blank" rel="noopener noreffer ">CC BY-NC-ND 4.0</a> <a href="https://drive.google.com/file/d/1XNunkcoiM90bUjI3LbM8giyVPWc8xVNE/view" target="_blank" rel="noopener noreffer ">license</a>.</sup></sup></p>
 <blockquote>
 <p>Learn how to design systems at scale and prepare for system design interviews.</p>
 </blockquote>
@@ -7339,6 +7338,7 @@ $$</p>
 <li><a href="https://www.pagerduty.com/resources" target="_blank" rel="noopener noreffer ">PagerDuty resources</a></li>
 <li><a href="https://blogs.vmware.com/learning" target="_blank" rel="noopener noreffer ">VMWare Blogs</a></li>
 </ul>
+<p><sup> Blog Disclaimer: This webpage is a modification of <a href="https://github.com/karanpratapsingh" target="_blank" rel="noopener noreffer ">@karanpratapsingh</a>&rsquo;s <a href="https://github.com/karanpratapsingh/system-design" target="_blank" rel="noopener noreffer ">system-design</a> repository with <a href="https://github.com/karanpratapsingh/system-design/commits/main/LICENSE" target="_blank" rel="noopener noreffer ">CC BY-NC-ND 4.0</a> <a href="https://drive.google.com/file/d/1XNunkcoiM90bUjI3LbM8giyVPWc8xVNE/view" target="_blank" rel="noopener noreffer ">license</a>.</sup></p>
 <p><em>All the diagrams were made using <a href="https://excalidraw.com" target="_blank" rel="noopener noreffer ">Excalidraw</a> and are available <a href="https://github.com/karanpratapsingh/system-design/tree/main/diagrams" target="_blank" rel="noopener noreffer ">here</a>.</em></p>
 ]]></description>
 </item>

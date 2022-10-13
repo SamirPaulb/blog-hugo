@@ -16,7 +16,7 @@ featuredImagePreview: ""
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
-twemoji: true
+twemoji: false
 lightgallery: true
 ruby: true
 fraction: true
