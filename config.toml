@@ -92,7 +92,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     #  Header title config
     [params.header.title]
       # URL of the LOGO
-      logo = "logo.png"
+      logo = ""
       # title name
       name = "Samir Paul"
       # you can add extra information before the name (HTML format is supported), such as icons
@@ -476,8 +476,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       images = []
       # Publisher info
       [params.page.seo.publisher]
-        name = ""
-        logoUrl = ""
+        name = "Samir Paul"
+        logoUrl = "logo.png"
 
   #  TypeIt config
   [params.typeit]
