@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>interview - Category - Samir Paul - Technical Blog</title>
-        <link>/blog/categories/interview/</link>
-        <description>interview - Category - Samir Paul - Technical Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 04 Oct 2022 15:58:26 &#43;0800</lastBuildDate><atom:link href="/blog/categories/interview/" rel="self" type="application/rss+xml" /><item>
+        <title>interview - Category - Technical Blog - Samir Paul</title>
+        <link>https://samirpaul.netlify.app/categories/interview/</link>
+        <description>interview - Category - Technical Blog - Samir Paul</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Creative Commons Attribution 4.0 International (CC BY 4.0)</copyright><lastBuildDate>Tue, 04 Oct 2022 15:58:26 &#43;0800</lastBuildDate><atom:link href="https://samirpaul.netlify.app/categories/interview/" rel="self" type="application/rss+xml" /><item>
     <title>System Design Course</title>
-    <link>/blog/system-design/</link>
+    <link>https://samirpaul.netlify.app/system-design/</link>
     <pubDate>Tue, 04 Oct 2022 15:58:26 &#43;0800</pubDate>
     <author>Samir Paul</author>
-    <guid>/blog/system-design/</guid>
+    <guid>https://samirpaul.netlify.app/system-design/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="https://raw.githubusercontent.com/SamirPaulb/assets/main/Getting-Started-with-System-Design-samirpaulb-assets.png" referrerpolicy="no-referrer">
             </div><h1 id="system-design-course">System Design Course</h1>

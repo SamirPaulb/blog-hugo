@@ -1,16 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Samir Paul - Technical Blog</title>
-        <link>/blog/</link>
+        <title>Technical Blog - Samir Paul</title>
+        <link>https://samirpaul.netlify.app/</link>
         <description>Technical blog made by developer for developers. Computer Science, Data Structures Algorithms, Networking, Artificial Intelligence and Coding Interview Prep.</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 13 Oct 2022 12:44:34 &#43;0000</lastBuildDate>
-            <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Creative Commons Attribution 4.0 International (CC BY 4.0)</copyright><lastBuildDate>Thu, 13 Oct 2022 12:44:34 &#43;0000</lastBuildDate>
+            <atom:link href="https://samirpaul.netlify.app/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Data Structures and Algorithms for Coding Interview</title>
-    <link>/blog/data-structures-and-algorithms-for-coding-interview/</link>
+    <link>https://samirpaul.netlify.app/data-structures-and-algorithms-for-coding-interview/</link>
     <pubDate>Thu, 13 Oct 2022 12:44:34 &#43;0000</pubDate>
     <author>Samir Paul</author>
-    <guid>/blog/data-structures-and-algorithms-for-coding-interview/</guid>
+    <guid>https://samirpaul.netlify.app/data-structures-and-algorithms-for-coding-interview/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="https://raw.githubusercontent.com/SamirPaulb/assets/main/dsa-in-python.jpg" referrerpolicy="no-referrer">
             </div><div align="center">
@@ -2866,10 +2866,10 @@ say for 3-10 minutes when he asks you that say something about the project.</li>
 </item>
 <item>
     <title>System Design Course</title>
-    <link>/blog/system-design/</link>
+    <link>https://samirpaul.netlify.app/system-design/</link>
     <pubDate>Tue, 04 Oct 2022 15:58:26 &#43;0800</pubDate>
     <author>Samir Paul</author>
-    <guid>/blog/system-design/</guid>
+    <guid>https://samirpaul.netlify.app/system-design/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="https://raw.githubusercontent.com/SamirPaulb/assets/main/Getting-Started-with-System-Design-samirpaulb-assets.png" referrerpolicy="no-referrer">
             </div><h1 id="system-design-course">System Design Course</h1>
