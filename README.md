@@ -11,3 +11,13 @@ Steps:
 2. Run ```hugo server``` to preview the site. 
 3. Run ```hugo``` to build static codes inside public directory for deploying on Netlify.
 4. Use GitHub Actions to deploy on GitHub Pages.
+
+---
+
+More instructions:
+1. https://hugoloveit.com/theme-documentation-basics/
+2. https://hugoloveit.com/theme-documentation-content/
+3. https://gohugo.io/getting-started/installing/#scoop-windows
+4. https://scoop.sh/
+5. https://formulae.brew.sh/formula/hugo
+6. For local development add hugo.exe executable to PATH.
