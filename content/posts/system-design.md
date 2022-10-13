@@ -63,7 +63,6 @@ seo:
 
 # System Design Course
 
-<sup><sup> Blog Disclaimer: This webpage is a modification of [@karanpratapsingh](https://github.com/karanpratapsingh)'s [system-design](https://github.com/karanpratapsingh/system-design) repository with [CC BY-NC-ND 4.0](https://github.com/karanpratapsingh/system-design/commits/main/LICENSE) [license](https://drive.google.com/file/d/1XNunkcoiM90bUjI3LbM8giyVPWc8xVNE/view).</sup></sup> 
 
 > Learn how to design systems at scale and prepare for system design interviews.
 
@@ -5809,5 +5808,7 @@ Here are the resources that were referenced while creating this course.
 - [Martin Fowler](https://martinfowler.com)
 - [PagerDuty resources](https://www.pagerduty.com/resources)
 - [VMWare Blogs](https://blogs.vmware.com/learning)
+
+<sup> Blog Disclaimer: This webpage is a modification of [@karanpratapsingh](https://github.com/karanpratapsingh)'s [system-design](https://github.com/karanpratapsingh/system-design) repository with [CC BY-NC-ND 4.0](https://github.com/karanpratapsingh/system-design/commits/main/LICENSE) [license](https://drive.google.com/file/d/1XNunkcoiM90bUjI3LbM8giyVPWc8xVNE/view).</sup> 
 
 _All the diagrams were made using [Excalidraw](https://excalidraw.com) and are available [here](https://github.com/karanpratapsingh/system-design/tree/main/diagrams)._
