@@ -1,8 +1,65 @@
 ---
-title: "System Desing"
-date: 2022-10-13T10:12:06Z
+title: "System Design Course"
+subtitle: "Learn how to design systems at scale and prepare for system design interviews."
+date: 2022-10-04T15:58:26+08:00
+lastmod: 2022-03-04T15:58:26+08:00
 draft: false
+author: "Samir Paul"
+authorLink: "https://twitter.com/intent/follow?screen_name=SamirPaulb"
+description: ""
+license: "CC BY 4.0"
+images: []
+
+tags: ["system-design", "distributed-systems", "hashing", "caching", "distributed-systems", "sql", "cdn", "storage", "rest-api", "scalability", "proxy-server", "databases", "design-patterns", "transactions", "sharding", "nosql-database", "design-system", "database-replication", "design-interviews", "cap-theorem", "system-design-interviews", "api-gateway",
+"rest", "graphql", "grpc", "message-queues", "monoliths", "microservices"]
+categories: ["system-design", "interview"]
+
+featuredImage: "https://raw.githubusercontent.com/SamirPaulb/assets/main/Getting-Started-with-System-Design-samirpaulb-assets.png"
+featuredImagePreview: "https://raw.githubusercontent.com/SamirPaulb/assets/main/Getting-Started-with-System-Design-samirpaulb-assets.png"
+
+hiddenFromHomePage: false
+hiddenFromSearch: false
+twemoji: false
+lightgallery: true
+ruby: true
+fraction: true
+fontawesome: true
+linkToMarkdown: true
+rssFullText: true
+
+toc:
+  enable: true
+  auto: true
+code:
+  copy: true
+  maxShownLines: 50
+math:
+  enable: false
+  # ...
+mapbox:
+  # ...
+share:
+  enable: true
+  # ...
+comment:
+  enable: true
+  # ...
+library:
+  css:
+    # someCSS = "some.css"
+    # located in "assets/"
+    # Or
+    # someCSS = "https://cdn.example.com/some.css"
+  js:
+    # someJS = "some.js"
+    # located in "assets/"
+    # Or
+    # someJS = "https://cdn.example.com/some.js"
+seo:
+  images: ["https://raw.githubusercontent.com/SamirPaulb/assets/main/Getting-Started-with-System-Design-samirpaulb-assets.png"]
+  # ...
 ---
+
 
 # System Design Course
 
