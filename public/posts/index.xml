@@ -169,9 +169,6 @@
 </li>
 <li><a href="#146-lru-cache" rel="">146-LRU Cache</a></li>
 </ul>
-<p><br><br><br><br><br></p>
-<hr>
-<p><br><br><br></p>
 <p><a name="twoSum"></a></p>
 <h1 id="1-two-sum">1-Two Sum</h1>
 <p>Given an array of integers, return <strong>indices</strong> of the two numbers such that they add up to a specific target.

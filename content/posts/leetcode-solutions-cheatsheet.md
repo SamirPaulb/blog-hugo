@@ -143,9 +143,6 @@ seo:
 
 
 
-<br><br><br><br><br>
-***
-<br><br><br>
 
 <a name="twoSum"></a>
 # 1-Two Sum 
