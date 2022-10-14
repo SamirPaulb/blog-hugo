@@ -5,7 +5,7 @@ Live Demo: \
 👉 **https://samirpaul.netlify.app**  \
 👉 **https://samirp.vercel.app**
 
-Created using [Hugo](https://gohugo.io/getting-started/installing/#scoop-windows) and [**LoveIt theme**](https://github.com/dillonzq/LoveIt).
+Created using [Hugo](https://gohugo.io/getting-started/installing/) and [**LoveIt theme**](https://github.com/dillonzq/LoveIt).
 
 Steps:
 1. Install Hugo ```choco install hugo-extended -confirm```.
