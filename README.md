@@ -3,7 +3,7 @@
 Live Demo: \
 👉 **https://samirpaul1.github.io/blog** \
 👉 **https://samirpaul.netlify.app**  \
-👉 **https://samirp.vercel.app/**
+👉 **https://samirp.vercel.app**
 
 Created using [Hugo](https://gohugo.io/getting-started/installing/#scoop-windows) and [**LoveIt theme**](https://github.com/dillonzq/LoveIt) on [Gitpod](https://samirpaul1-blog-8zguo58spg6.ws-us71.gitpod.io/).
 
