@@ -1,5 +1,61 @@
-# About
+---
+title: "About"
+date: 2022-10-15T10:08:05+05:30
+draft: false
+author: "Samir Paul"
+authorLink: "https://twitter.com/intent/follow?screen_name=SamirPaulb"
+description: ""
+license: "GPL-3.0"
+images: ["banner.jpg"]
 
+tags: ["samirpaul", "about-me", "samirpaul1", "samirpaulb", "author"]
+categories: ["about"]
+
+featuredImage: "banner.jpg"
+featuredImagePreview: "banner.jpg"
+
+hiddenFromHomePage: false
+hiddenFromSearch: false
+twemoji: false
+lightgallery: true
+ruby: true
+fraction: true
+fontawesome: true
+linkToMarkdown: true
+rssFullText: true
+
+toc:
+  enable: true
+  auto: true
+code:
+  copy: true
+  maxShownLines: 50
+math:
+  enable: false
+  # ...
+mapbox:
+  # ...
+share:
+  enable: true
+  # ...
+comment:
+  enable: true
+  # ...
+library:
+  css:
+    # someCSS = "some.css"
+    # located in "assets/"
+    # Or
+    # someCSS = "https://cdn.example.com/some.css"
+  js:
+    # someJS = "some.js"
+    # located in "assets/"
+    # Or
+    # someJS = "https://cdn.example.com/some.js"
+seo:
+  images: ["banner.jpg"]
+  # ...
+---
 
 
 
@@ -98,4 +154,3 @@
 <p align=center>                           
   <a href="https://github.com/SamirPaul1"><img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=sabesansathananthan.sabesansathananthan" alt="Visitors"></a>     
 </p>
-
