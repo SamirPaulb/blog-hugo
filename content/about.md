@@ -9,7 +9,7 @@ license: "GPL-3.0"
 images: []
 
 tags: ["samirpaul", "about-me", "samirpaul1", "samirpaulb", "author"]
-categories: ["about"]
+categories: ["about-me"]
 
 featuredImage: ""
 featuredImagePreview: ""
