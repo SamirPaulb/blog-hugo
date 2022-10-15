@@ -4,15 +4,15 @@ date: 2022-10-15T10:08:05+05:30
 draft: false
 author: "Samir Paul"
 authorLink: "https://twitter.com/intent/follow?screen_name=SamirPaulb"
-description: ""
+description: "About Me"
 license: "GPL-3.0"
-images: ["banner.jpg"]
+images: []
 
 tags: ["samirpaul", "about-me", "samirpaul1", "samirpaulb", "author"]
 categories: ["about"]
 
-featuredImage: "banner.jpg"
-featuredImagePreview: "banner.jpg"
+featuredImage: ""
+featuredImagePreview: ""
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -39,7 +39,7 @@ share:
   enable: true
   # ...
 comment:
-  enable: true
+  enable: false
   # ...
 library:
   css:
