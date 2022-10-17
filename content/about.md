@@ -4,7 +4,7 @@ date: 2022-10-15T10:08:05+05:30
 draft: false
 author: "Samir Paul"
 authorLink: "https://twitter.com/intent/follow?screen_name=SamirPaulb"
-description: "About Me"
+description: "About Me - Samir Paul"
 license: "GPL-3.0"
 images: []
 

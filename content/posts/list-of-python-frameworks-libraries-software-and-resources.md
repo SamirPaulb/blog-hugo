@@ -4,7 +4,7 @@ date: 2022-10-16T14:36:25+05:30
 draft: false
 author: "Samir Paul"
 authorLink: "https://twitter.com/intent/follow?screen_name=SamirPaulb"
-description: ""
+description: "List of Python Frameworks Libraries Software and Resources"
 license: "GPL-3.0"
 images: ["https://raw.githubusercontent.com/SamirPaulb/assets/main/list-of-python-frameworks-libraries-software-and-resources-banner-imag.jpg"]
 

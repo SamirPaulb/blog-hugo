@@ -4,7 +4,7 @@ date: 2022-10-16T14:25:55+05:30
 draft: false
 author: "Samir Paul"
 authorLink: "https://twitter.com/intent/follow?screen_name=SamirPaulb"
-description: ""
+description: "List of Project Based Tutorials"
 license: "GPL-3.0"
 images: ["https://raw.githubusercontent.com/SamirPaulb/assets/main/curated-list-of-project-based-tutorials-images.png"]
 

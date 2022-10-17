@@ -4,7 +4,7 @@ date: 2022-10-16T14:18:19+05:30
 draft: false
 author: "Samir Paul"
 authorLink: "https://twitter.com/intent/follow?screen_name=SamirPaulb"
-description: ""
+description: "Study Plan to Become a Software Engineer"
 license: "GPL-3.0"
 images: ["https://raw.githubusercontent.com/SamirPaulb/assets/main/complete-computer-science-study-plan-to-become-a-software-engineer-images.jpeg"]
 

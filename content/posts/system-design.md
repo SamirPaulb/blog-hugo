@@ -6,7 +6,7 @@ lastmod: 2022-03-04T15:58:26+08:00
 draft: false
 author: "Samir Paul"
 authorLink: "https://twitter.com/intent/follow?screen_name=SamirPaulb"
-description: ""
+description: "Learn how to design systems at scale and prepare for system design interviews"
 license: "CC BY 4.0"
 images: ["https://raw.githubusercontent.com/SamirPaulb/assets/main/Getting-Started-with-System-Design-samirpaulb-assets.png"]
 
