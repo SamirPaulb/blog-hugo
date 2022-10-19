@@ -1716,10 +1716,9 @@ S and become S&rsquo;. Find the longest common substring between S and S&rsquo; 
 palindromic substring.&rdquo; This will work with some examples but there are some cases where the longest
 common substring is not a valid palindrome.</p>
 <pre><code>Ex. S=&quot;abacdfgdcaba&quot;, S'=&quot;abacdgfdcaba&quot; 	
-
-The longest common substring between S and S' is &quot;abacd&quot; and clearly this is not a valid 
-palindrome
 </code></pre>
+<p>The longest common substring between S and S&rsquo; is &ldquo;abacd&rdquo; and clearly this is not a valid 
+palindrome</p>
 <p>We can solve this problem however by checking if the substring&rsquo;s indices are the same as the reversed
 substring&rsquo;s original indices each time we find a longest common substring. If it is, then we attempt
 to update the longest palindrome found so far, if not we skip this and find the next candidate</p>

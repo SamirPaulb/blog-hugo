@@ -628,7 +628,7 @@ common substring is not a valid palindrome.
 
 	Ex. S="abacdfgdcaba", S'="abacdgfdcaba" 	
 
-	The longest common substring between S and S' is "abacd" and clearly this is not a valid 
+The longest common substring between S and S' is "abacd" and clearly this is not a valid 
 	palindrome
 
 We can solve this problem however by checking if the substring's indices are the same as the reversed

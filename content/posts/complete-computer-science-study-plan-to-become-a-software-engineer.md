@@ -470,7 +470,7 @@ You don't need to memorize every algorithm. You just need to be able to understa
 
 ## Coding Question Practice
 
-    Why is this here? I'm not ready to interview.
+🤔 Why is this here? I'm not ready to interview.
 
 [Then go back and read this.](#3-do-coding-interview-questions-while-youre-learning)
 
