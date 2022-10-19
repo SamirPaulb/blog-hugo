@@ -1173,7 +1173,7 @@ Graphs can be used to represent many problems in computer science, so this secti
 
 ## Final Review
 
-    This section will have shorter videos that you can watch pretty quickly to review most of the important concepts.
+- This section will have shorter videos that you can watch pretty quickly to review most of the important concepts.
     It's nice if you want a refresher often.
 
 - [ ] Series of 2-3 minutes short subject videos (23 videos)
@@ -1275,22 +1275,16 @@ Keep learning.
 You're never really done.
 
 ---
-
-    *****************************************************************************************************
-    *****************************************************************************************************
-
-    Everything below this point is optional. It is NOT needed for an entry-level interview.
-    However, by studying these, you'll get greater exposure to more CS concepts, and will be better prepared for
-    any software engineering job. You'll be a much more well-rounded software engineer.
-    
-    *****************************************************************************************************
-    *****************************************************************************************************
+Everything below this point is optional. It is NOT needed for an entry-level interview.
+However, by studying these, you'll get greater exposure to more CS concepts, and will be better prepared for
+any software engineering job. You'll be a much more well-rounded software engineer.
 
 ---
 
+
 ## Additional Books
 
-    These are here so you can dive into a topic you find interesting.
+📚 These are here so you can dive into a topic you find interesting.
 
 - [The Unix Programming Environment](https://www.amazon.com/dp/013937681X)
     - An oldie but a goodie
@@ -1455,8 +1449,8 @@ You're never really done.
 
 ## Additional Learning
 
-    I added them to help you become a well-rounded software engineer, and to be aware of certain
-    technologies and algorithms, so you'll have a bigger toolbox.
+I added them to help you become a well-rounded software engineer, and to be aware of certain
+technologies and algorithms, so you'll have a bigger toolbox.
 
 - ### Compilers
     - [How a Compiler Works in ~1 minute (video)](https://www.youtube.com/watch?v=IhC7sdYe-Jg)
@@ -1762,9 +1756,9 @@ You're never really done.
 
 ## Additional Detail on Some Subjects
 
-    I added these to reinforce some ideas already presented above, but didn't want to include them
-    above because it's just too much. It's easy to overdo it on a subject.
-    You want to get hired in this century, right?
+- I added these to reinforce some ideas already presented above, but didn't want to include them
+above because it's just too much. It's easy to overdo it on a subject.
+You want to get hired in this century, right?
 
 - **SOLID**   
     - [ ] [Bob Martin SOLID Principles of Object Oriented and Agile Design (video)](https://www.youtube.com/watch?v=TMuno5RZNeE)

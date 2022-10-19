@@ -1485,22 +1485,29 @@ to track the path</li>
 </ul>
 <hr>
 <h2 id="final-review">Final Review</h2>
-<pre><code>This section will have shorter videos that you can watch pretty quickly to review most of the important concepts.
-It's nice if you want a refresher often.
-</code></pre>
 <ul>
-<li><i class="far fa-square fa-fw" aria-hidden="true"></i> Series of 2-3 minutes short subject videos (23 videos)
+<li>
+<p>This section will have shorter videos that you can watch pretty quickly to review most of the important concepts.
+It&rsquo;s nice if you want a refresher often.</p>
+</li>
+<li>
+<p><i class="far fa-square fa-fw" aria-hidden="true"></i> Series of 2-3 minutes short subject videos (23 videos)</p>
 <ul>
 <li><a href="https://www.youtube.com/watch?v=r4r1DZcx1cM&amp;list=PLmVb1OknmNJuC5POdcDv5oCS7_OUkDgpj&amp;index=22" target="_blank" rel="noopener noreffer ">Videos</a></li>
 </ul>
 </li>
-<li><i class="far fa-square fa-fw" aria-hidden="true"></i> Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):
+<li>
+<p><i class="far fa-square fa-fw" aria-hidden="true"></i> Series of 2-5 minutes short subject videos - Michael Sambol (38 videos):</p>
 <ul>
 <li><a href="https://www.youtube.com/channel/UCzDJwLWoYCUQowF_nG3m5OQ" target="_blank" rel="noopener noreffer ">Videos</a></li>
 </ul>
 </li>
-<li><i class="far fa-square fa-fw" aria-hidden="true"></i> <a href="https://www.coursera.org/learn/algorithms-part1" target="_blank" rel="noopener noreffer ">Sedgewick Videos - Algorithms I</a></li>
-<li><i class="far fa-square fa-fw" aria-hidden="true"></i> <a href="https://www.coursera.org/learn/algorithms-part2" target="_blank" rel="noopener noreffer ">Sedgewick Videos - Algorithms II</a></li>
+<li>
+<p><i class="far fa-square fa-fw" aria-hidden="true"></i> <a href="https://www.coursera.org/learn/algorithms-part1" target="_blank" rel="noopener noreffer ">Sedgewick Videos - Algorithms I</a></p>
+</li>
+<li>
+<p><i class="far fa-square fa-fw" aria-hidden="true"></i> <a href="https://www.coursera.org/learn/algorithms-part2" target="_blank" rel="noopener noreffer ">Sedgewick Videos - Algorithms II</a></p>
+</li>
 </ul>
 <hr>
 <h2 id="update-your-resume">Update Your Resume</h2>
@@ -1650,20 +1657,12 @@ Have a story, not just data, about something you accomplished.</p>
 <p>Keep learning.</p>
 <p>You&rsquo;re never really done.</p>
 <hr>
-<pre><code>*****************************************************************************************************
-*****************************************************************************************************
-
-Everything below this point is optional. It is NOT needed for an entry-level interview.
-However, by studying these, you'll get greater exposure to more CS concepts, and will be better prepared for
-any software engineering job. You'll be a much more well-rounded software engineer.
-
-*****************************************************************************************************
-*****************************************************************************************************
-</code></pre>
+<p>Everything below this point is optional. It is NOT needed for an entry-level interview.
+However, by studying these, you&rsquo;ll get greater exposure to more CS concepts, and will be better prepared for
+any software engineering job. You&rsquo;ll be a much more well-rounded software engineer.</p>
 <hr>
 <h2 id="additional-books">Additional Books</h2>
-<pre><code>These are here so you can dive into a topic you find interesting.
-</code></pre>
+<p>📚 These are here so you can dive into a topic you find interesting.</p>
 <ul>
 <li><a href="https://www.amazon.com/dp/013937681X" target="_blank" rel="noopener noreffer ">The Unix Programming Environment</a>
 <ul>
@@ -1916,9 +1915,8 @@ Expect to spend quite a bit of time on this</li>
 </li>
 </ul>
 <h2 id="additional-learning">Additional Learning</h2>
-<pre><code>I added them to help you become a well-rounded software engineer, and to be aware of certain
-technologies and algorithms, so you'll have a bigger toolbox.
-</code></pre>
+<p>I added them to help you become a well-rounded software engineer, and to be aware of certain
+technologies and algorithms, so you&rsquo;ll have a bigger toolbox.</p>
 <ul>
 <li>
 <h3 id="compilers">Compilers</h3>
@@ -2390,11 +2388,12 @@ block in a particular file. The basic problem is turning the file block i addres
 </ul>
 <hr>
 <h2 id="additional-detail-on-some-subjects">Additional Detail on Some Subjects</h2>
-<pre><code>I added these to reinforce some ideas already presented above, but didn't want to include them
-above because it's just too much. It's easy to overdo it on a subject.
-You want to get hired in this century, right?
-</code></pre>
 <ul>
+<li>
+<p>I added these to reinforce some ideas already presented above, but didn&rsquo;t want to include them
+above because it&rsquo;s just too much. It&rsquo;s easy to overdo it on a subject.
+You want to get hired in this century, right?</p>
+</li>
 <li>
 <p><strong>SOLID</strong></p>
 <ul>
