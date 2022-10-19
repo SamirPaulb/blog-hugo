@@ -1860,4 +1860,9 @@ Routers network addressing is hierarchical, packets do not normally cycle and th
 
 ![interconnectiondevices](https://raw.githubusercontent.com/SamirPaulb/assets/main/blog-interconnectiondevices.png)
 
-### 5.4.4 Virtual Local Area Networks (VLANs)
+
+### PDF Note👇
+
+<object data="https://samirpaulb.github.io/assets/computer_networking_notes_for_tech_placements.pdf" type="application/pdf" width="100%" height="700px">
+</object>
+

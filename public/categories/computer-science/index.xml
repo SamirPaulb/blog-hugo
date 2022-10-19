@@ -1554,7 +1554,9 @@ Switches are plug-and-play, have relatively high filtering and forwarding rates.
 However to <strong>prevent the cycling of broadcast frames, the active topology of a swtiched network is restricted to a spanning tree</strong>. A large network requires large ARP tables in hosts and routers and would generate substantial ARP traffic and processing. Switches are also susceptible to broadcast storms: if one goes crazy and send an endless stream of broadcast frames, the others will forward all of the frames resulting in a network collapse.
 Routers network addressing is hierarchical, packets do not normally cycle and the topology is not limited to a spanning tree even when the network has redundant paths. Therefore packets can use the best path between source and destination. But routers are not plug-and-play (a host need the IP to connect) and often have a larger per-packet processing time than switches. Finally two pronunciation cause a lot of disputes.</p>
 <p></p>
-<h3 id="544-virtual-local-area-networks-vlans">5.4.4 Virtual Local Area Networks (VLANs)</h3>
+<h3 id="pdf-note">PDF Note👇</h3>
+<object data="https://samirpaulb.github.io/assets/computer_networking_notes_for_tech_placements.pdf" type="application/pdf" width="100%" height="700px">
+</object>
 ]]></description>
 </item>
 <item>
