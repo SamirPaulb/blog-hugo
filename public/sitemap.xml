@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://samirpaul.netlify.app/categories/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://samirpaul.netlify.app/categories/</loc><lastmod>2022-10-19T22:04:28&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://samirpaul.netlify.app/tags/ccna/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://samirpaul.netlify.app/tags/coding/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://samirpaul.netlify.app/tags/computer/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
@@ -21,10 +21,10 @@
             <loc>https://samirpaul.netlify.app/tags/networking/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://samirpaul.netlify.app/tags/notes/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://samirpaul.netlify.app/tags/osi-model/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://samirpaul.netlify.app/posts/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://samirpaul.netlify.app/posts/</loc><lastmod>2022-10-19T22:04:28&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://samirpaul.netlify.app/tags/routingandswitching/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://samirpaul.netlify.app/tags/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://samirpaul.netlify.app/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://samirpaul.netlify.app/tags/</loc><lastmod>2022-10-19T22:04:28&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://samirpaul.netlify.app/</loc><lastmod>2022-10-19T22:04:28&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://samirpaul.netlify.app/list-of-python-frameworks-libraries-software-and-resources/</loc><lastmod>2022-10-17T10:23:19&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://samirpaul.netlify.app/tags/python/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://samirpaul.netlify.app/categories/python/</loc><lastmod>2022-10-17T10:23:19&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
@@ -45,7 +45,7 @@
             <loc>https://samirpaul.netlify.app/tags/backbonejs/</loc><lastmod>2022-10-16T14:47:00&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://samirpaul.netlify.app/tags/c/</loc><lastmod>2022-10-16T14:47:00&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://samirpaul.netlify.app/tags/clojure/</loc><lastmod>2022-10-16T14:47:00&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://samirpaul.netlify.app/categories/coding-interview/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://samirpaul.netlify.app/categories/coding-interview/</loc><lastmod>2022-10-19T22:04:28&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://samirpaul.netlify.app/tags/cpp/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://samirpaul.netlify.app/tags/css/</loc><lastmod>2022-10-16T14:47:00&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://samirpaul.netlify.app/tags/django/</loc><lastmod>2022-10-16T14:47:00&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
@@ -55,7 +55,7 @@
             <loc>https://samirpaul.netlify.app/tags/erlang/</loc><lastmod>2022-10-16T14:47:00&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://samirpaul.netlify.app/tags/front-end/</loc><lastmod>2022-10-16T14:47:00&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://samirpaul.netlify.app/tags/golang/</loc><lastmod>2022-10-16T14:47:00&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://samirpaul.netlify.app/tags/graphql/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://samirpaul.netlify.app/tags/graphql/</loc><lastmod>2022-10-19T22:04:28&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://samirpaul.netlify.app/tags/html/</loc><lastmod>2022-10-16T14:47:00&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://samirpaul.netlify.app/categories/interview-questions/</loc><lastmod>2022-10-16T14:47:00&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://samirpaul.netlify.app/tags/ionic/</loc><lastmod>2022-10-16T14:47:00&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
@@ -135,31 +135,31 @@
             <loc>https://samirpaul.netlify.app/tags/string/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://samirpaul.netlify.app/tags/trie/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://samirpaul.netlify.app/tags/two-pointers/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://samirpaul.netlify.app/tags/api-gateway/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://samirpaul.netlify.app/tags/caching/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://samirpaul.netlify.app/tags/cap-theorem/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://samirpaul.netlify.app/tags/cdn/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://samirpaul.netlify.app/tags/database-replication/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://samirpaul.netlify.app/tags/databases/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://samirpaul.netlify.app/tags/design-interviews/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://samirpaul.netlify.app/tags/design-patterns/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://samirpaul.netlify.app/tags/design-system/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://samirpaul.netlify.app/tags/distributed-systems/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://samirpaul.netlify.app/tags/grpc/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://samirpaul.netlify.app/tags/hashing/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://samirpaul.netlify.app/tags/message-queues/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://samirpaul.netlify.app/tags/microservices/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://samirpaul.netlify.app/tags/monoliths/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://samirpaul.netlify.app/tags/nosql-database/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://samirpaul.netlify.app/tags/proxy-server/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://samirpaul.netlify.app/tags/rest/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://samirpaul.netlify.app/tags/rest-api/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://samirpaul.netlify.app/tags/scalability/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://samirpaul.netlify.app/tags/sharding/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://samirpaul.netlify.app/tags/sql/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://samirpaul.netlify.app/tags/storage/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://samirpaul.netlify.app/system-design/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://samirpaul.netlify.app/tags/system-design/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://samirpaul.netlify.app/categories/system-design/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://samirpaul.netlify.app/tags/system-design-interviews/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://samirpaul.netlify.app/tags/transactions/</loc><lastmod>2022-10-19T21:59:49&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
+            <loc>https://samirpaul.netlify.app/tags/api-gateway/</loc><lastmod>2022-10-19T22:04:28&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://samirpaul.netlify.app/tags/caching/</loc><lastmod>2022-10-19T22:04:28&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://samirpaul.netlify.app/tags/cap-theorem/</loc><lastmod>2022-10-19T22:04:28&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://samirpaul.netlify.app/tags/cdn/</loc><lastmod>2022-10-19T22:04:28&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://samirpaul.netlify.app/tags/database-replication/</loc><lastmod>2022-10-19T22:04:28&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://samirpaul.netlify.app/tags/databases/</loc><lastmod>2022-10-19T22:04:28&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://samirpaul.netlify.app/tags/design-interviews/</loc><lastmod>2022-10-19T22:04:28&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://samirpaul.netlify.app/tags/design-patterns/</loc><lastmod>2022-10-19T22:04:28&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://samirpaul.netlify.app/tags/design-system/</loc><lastmod>2022-10-19T22:04:28&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://samirpaul.netlify.app/tags/distributed-systems/</loc><lastmod>2022-10-19T22:04:28&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://samirpaul.netlify.app/tags/grpc/</loc><lastmod>2022-10-19T22:04:28&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://samirpaul.netlify.app/tags/hashing/</loc><lastmod>2022-10-19T22:04:28&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://samirpaul.netlify.app/tags/message-queues/</loc><lastmod>2022-10-19T22:04:28&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://samirpaul.netlify.app/tags/microservices/</loc><lastmod>2022-10-19T22:04:28&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://samirpaul.netlify.app/tags/monoliths/</loc><lastmod>2022-10-19T22:04:28&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://samirpaul.netlify.app/tags/nosql-database/</loc><lastmod>2022-10-19T22:04:28&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://samirpaul.netlify.app/tags/proxy-server/</loc><lastmod>2022-10-19T22:04:28&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://samirpaul.netlify.app/tags/rest/</loc><lastmod>2022-10-19T22:04:28&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://samirpaul.netlify.app/tags/rest-api/</loc><lastmod>2022-10-19T22:04:28&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://samirpaul.netlify.app/tags/scalability/</loc><lastmod>2022-10-19T22:04:28&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://samirpaul.netlify.app/tags/sharding/</loc><lastmod>2022-10-19T22:04:28&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://samirpaul.netlify.app/tags/sql/</loc><lastmod>2022-10-19T22:04:28&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://samirpaul.netlify.app/tags/storage/</loc><lastmod>2022-10-19T22:04:28&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://samirpaul.netlify.app/system-design/</loc><lastmod>2022-10-19T22:04:28&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://samirpaul.netlify.app/tags/system-design/</loc><lastmod>2022-10-19T22:04:28&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://samirpaul.netlify.app/categories/system-design/</loc><lastmod>2022-10-19T22:04:28&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://samirpaul.netlify.app/tags/system-design-interviews/</loc><lastmod>2022-10-19T22:04:28&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://samirpaul.netlify.app/tags/transactions/</loc><lastmod>2022-10-19T22:04:28&#43;05:30</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
