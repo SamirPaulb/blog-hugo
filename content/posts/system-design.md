@@ -8,14 +8,14 @@ author: "Samir Paul"
 authorLink: "https://twitter.com/intent/follow?screen_name=SamirPaulb"
 description: "Learn how to design systems at scale and prepare for system design interviews"
 license: "CC BY 4.0"
-images: ["https://raw.githubusercontent.com/SamirPaulb/assets/main/Getting-Started-with-System-Design-samirpaulb-assets.png"]
+images: ["https://samirpaulb.github.io/assets/Getting-Started-with-System-Design-samirpaulb-assets.png"]
 
 tags: ["system-design", "distributed-systems", "hashing", "caching", "distributed-systems", "sql", "cdn", "storage", "rest-api", "scalability", "proxy-server", "databases", "design-patterns", "transactions", "sharding", "nosql-database", "design-system", "database-replication", "design-interviews", "cap-theorem", "system-design-interviews", "api-gateway",
 "rest", "graphql", "grpc", "message-queues", "monoliths", "microservices"]
 categories: ["system-design", "coding-interview"]
 
-featuredImage: "https://raw.githubusercontent.com/SamirPaulb/assets/main/Getting-Started-with-System-Design-samirpaulb-assets.png"
-featuredImagePreview: "https://raw.githubusercontent.com/SamirPaulb/assets/main/Getting-Started-with-System-Design-samirpaulb-assets.png"
+featuredImage: "https://samirpaulb.github.io/assets/Getting-Started-with-System-Design-samirpaulb-assets.png"
+featuredImagePreview: "https://samirpaulb.github.io/assets/Getting-Started-with-System-Design-samirpaulb-assets.png"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false

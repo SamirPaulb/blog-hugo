@@ -6,13 +6,13 @@ author: "Samir Paul"
 authorLink: "https://twitter.com/intent/follow?screen_name=SamirPaulb"
 description: "Study Plan to Become a Software Engineer"
 license: "GPL-3.0"
-images: ["https://raw.githubusercontent.com/SamirPaulb/assets/main/complete-computer-science-study-plan-to-become-a-software-engineer-images.jpeg"]
+images: ["https://samirpaulb.github.io/assets/complete-computer-science-study-plan-to-become-a-software-engineer-images.jpeg"]
 
 tags: ["coding", "computer-science", "study-plan"]
 categories: ["computer-science"]
 
-featuredImage: "https://raw.githubusercontent.com/SamirPaulb/assets/main/complete-computer-science-study-plan-to-become-a-software-engineer-images.jpeg"
-featuredImagePreview: "https://raw.githubusercontent.com/SamirPaulb/assets/main/complete-computer-science-study-plan-to-become-a-software-engineer-images.jpeg"
+featuredImage: "https://samirpaulb.github.io/assets/complete-computer-science-study-plan-to-become-a-software-engineer-images.jpeg"
+featuredImagePreview: "https://samirpaulb.github.io/assets/complete-computer-science-study-plan-to-become-a-software-engineer-images.jpeg"
 
 hiddenFromHomePage: true
 hiddenFromSearch: false

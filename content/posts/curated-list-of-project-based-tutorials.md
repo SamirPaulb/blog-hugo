@@ -6,13 +6,13 @@ author: "Samir Paul"
 authorLink: "https://twitter.com/intent/follow?screen_name=SamirPaulb"
 description: "List of Project Based Tutorials"
 license: "GPL-3.0"
-images: ["https://raw.githubusercontent.com/SamirPaulb/assets/main/curated-list-of-project-based-tutorials-images.png"]
+images: ["https://samirpaulb.github.io/assets/curated-list-of-project-based-tutorials-images.png"]
 
 tags: ["coding", "computer-science", "projects", "tutorials", "list-of-project-based-tutorials"]
 categories: ["computer-science", "project"]
 
-featuredImage: "https://raw.githubusercontent.com/SamirPaulb/assets/main/curated-list-of-project-based-tutorials-images.png"
-featuredImagePreview: "https://raw.githubusercontent.com/SamirPaulb/assets/main/curated-list-of-project-based-tutorials-images.png"
+featuredImage: "https://samirpaulb.github.io/assets/curated-list-of-project-based-tutorials-images.png"
+featuredImagePreview: "https://samirpaulb.github.io/assets/curated-list-of-project-based-tutorials-images.png"
 
 hiddenFromHomePage: true
 hiddenFromSearch: false
