@@ -10,7 +10,7 @@
     <author>Samir Paul</author>
     <guid>https://samirpaul.netlify.app/list-of-technical-interview-questions/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="https://raw.githubusercontent.com/SamirPaulb/assets/main/list-of-interview-questions-blog-images.jpeg" referrerpolicy="no-referrer">
+                <img src="/assets/list-of-interview-questions-blog-images.jpeg" referrerpolicy="no-referrer">
             </div><blockquote>
 <p>A curated list of lists of technical interview questions.</p>
 </blockquote>
@@ -701,7 +701,7 @@
     <author>Samir Paul</author>
     <guid>https://samirpaul.netlify.app/data-structures-and-algorithms-for-coding-interview/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="https://samirpaulb.github.io/assets/dsa-in-python.jpg" referrerpolicy="no-referrer">
+                <img src="/assets/dsa-in-python.jpg" referrerpolicy="no-referrer">
             </div><div align="center">
 <h1>Data Structures & Algorithms for Coding Interview</h1>
 <b><i>If you appreciate my work, please</i></b> 🌟 <b><i>this repository. It motivates me. 🚀🚀</i></b>
@@ -3560,7 +3560,7 @@ say for 3-10 minutes when he asks you that say something about the project.</li>
     <author>Samir Paul</author>
     <guid>https://samirpaul.netlify.app/system-design/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="https://samirpaulb.github.io/assets/Getting-Started-with-System-Design-samirpaulb-assets.png" referrerpolicy="no-referrer">
+                <img src="/assets/Getting-Started-with-System-Design-samirpaulb-assets.png" referrerpolicy="no-referrer">
             </div><h1 id="system-design-course">System Design Course</h1>
 <blockquote>
 <p>Learn how to design systems at scale and prepare for system design interviews.</p>

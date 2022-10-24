@@ -6,15 +6,15 @@ author: "Samir Paul"
 authorLink: "https://twitter.com/intent/follow?screen_name=SamirPaulb"
 description: "A curated list of top technical interview questions."
 license: "GPL-3.0"
-images: ["https://raw.githubusercontent.com/SamirPaulb/assets/main/list-of-interview-questions-blog-images.jpeg"]
+images: ["/assets/list-of-interview-questions-blog-images.jpeg"]
 
 tags: ["coding", "computer-science", "android", "angularjs", "angular", "backbonejs", "cpp", "c", "dotnet", "clojure", "css", "django", "elastic", "emberjs", "erlang", "golang", "graphql", "html", "ionic", "ios", "java", "javascript","jquery", "front-end", "knockoutjs", "less", "lisp", "nodejs", "objective-c", "php", "python", "reactjs", 
 "rails", "ruby", "rust", "sass", "scala", "shell", "spark", "swift", "vuejs", "wordpress",
 "typescript"]
 categories: ["coding-interview", "interview-questions"]
 
-featuredImage: "https://raw.githubusercontent.com/SamirPaulb/assets/main/list-of-interview-questions-blog-images.jpeg"
-featuredImagePreview: "https://raw.githubusercontent.com/SamirPaulb/assets/main/list-of-interview-questions-blog-images.jpeg"
+featuredImage: "/assets/list-of-interview-questions-blog-images.jpeg"
+featuredImagePreview: "/assets/list-of-interview-questions-blog-images.jpeg"
 
 hiddenFromHomePage: true
 hiddenFromSearch: false
@@ -55,7 +55,7 @@ library:
     # Or
     # someJS = "https://cdn.example.com/some.js"
 seo:
-  images: ["https://raw.githubusercontent.com/SamirPaulb/assets/main/list-of-interview-questions-blog-images.jpeg"]
+  images: ["/assets/list-of-interview-questions-blog-images.jpeg"]
   # ...
 ---
 
