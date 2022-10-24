@@ -6,13 +6,13 @@ author: "Samir Paul"
 authorLink: "https://twitter.com/intent/follow?screen_name=SamirPaulb"
 description: "List of Python Frameworks Libraries Software and Resources"
 license: "GPL-3.0"
-images: ["list-of-python-frameworks-libraries-software-and-resources-banner-imag.jpg"]
+images: ["https://raw.githubusercontent.com/SamirPaulb/assets/main/list-of-python-frameworks-libraries-software-and-resources-banner-imag.jpg"]
 
 tags: ["coding", "computer-science", "python", "python-frameworks", "python-libraries", "python-softwares", "python-resources"]
 categories: ["python"]
 
-featuredImage: "list-of-python-frameworks-libraries-software-and-resources-banner-imag.jpg"
-featuredImagePreview: "list-of-python-frameworks-libraries-software-and-resources-banner-imag.jpg"
+featuredImage: "https://raw.githubusercontent.com/SamirPaulb/assets/main/list-of-python-frameworks-libraries-software-and-resources-banner-imag.jpg"
+featuredImagePreview: "https://raw.githubusercontent.com/SamirPaulb/assets/main/list-of-python-frameworks-libraries-software-and-resources-banner-imag.jpg"
 
 hiddenFromHomePage: true
 hiddenFromSearch: false
@@ -53,7 +53,7 @@ library:
     # Or
     # someJS = "https://cdn.example.com/some.js"
 seo:
-  images: ["list-of-python-frameworks-libraries-software-and-resources-banner-imag.jpg"]
+  images: ["https://raw.githubusercontent.com/SamirPaulb/assets/main/list-of-python-frameworks-libraries-software-and-resources-banner-imag.jpg"]
   # ...
 ---
 

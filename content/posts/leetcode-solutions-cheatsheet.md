@@ -6,13 +6,13 @@ author: "Samir Paul"
 authorLink: "https://twitter.com/intent/follow?screen_name=SamirPaulb"
 description: "Important Leetcode Solutions Cheatsheet"
 license: "CC BY-NC-ND 4.0"
-images: ["leetcode-img-blogpost-leetcode-solutions-cheetsheet-md.jpeg"]
+images: ["https://samirpaulb.github.io/assets/leetcode-img-blogpost-leetcode-solutions-cheetsheet-md.jpeg"]
 
 tags: ["coding", "computer-science", "leetcode", "leetcode-solutions", "leetcode-solutions-cheetsheet", "leetcode-cheetsheet", "important-leetcode-solutions-markdown", "markdown", "important-leetcode-questions", "java", "python", "cpp"]
 categories: ["leetcode"]
 
-featuredImage: "leetcode-img-blogpost-leetcode-solutions-cheetsheet-md.jpeg"
-featuredImagePreview: "leetcode-img-blogpost-leetcode-solutions-cheetsheet-md.jpeg"
+featuredImage: "https://samirpaulb.github.io/assets/leetcode-img-blogpost-leetcode-solutions-cheetsheet-md.jpeg"
+featuredImagePreview: "https://samirpaulb.github.io/assets/leetcode-img-blogpost-leetcode-solutions-cheetsheet-md.jpeg"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -53,7 +53,7 @@ library:
     # Or
     # someJS = "https://cdn.example.com/some.js"
 seo:
-  images: ["leetcode-img-blogpost-leetcode-solutions-cheetsheet-md.jpeg"]
+  images: ["https://samirpaulb.github.io/assets/leetcode-img-blogpost-leetcode-solutions-cheetsheet-md.jpeg"]
   # ...
 ---
 

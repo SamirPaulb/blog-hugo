@@ -6,13 +6,13 @@ author: "Samir Paul"
 authorLink: "https://twitter.com/intent/follow?screen_name=SamirPaulb"
 description: "All the Data Structures and Algorithms concepts and solutions to various problems in Python3 stored in a structured manner."
 license: "GPL-3.0"
-images: ["dsa-in-python.jpg"]
+images: ["https://samirpaulb.github.io/assets/dsa-in-python.jpg"]
 
 tags: ["data-structures-and-algorithms-for-coding-interview", "data-structures", "algorithms", "interview", "coding-interview", "dsalgo", "leetcode", "gfg", "geeksforgeeks", "dynamic-programming", "sorting-algorithms", "linkedList", "object-oriented-programming", "binary-trees", "graph-algorithms", "heap", "matrix", "trie", "binary-search", "backtracking", "stack", "queue", "greedy", "string", "bit-manipulation", "array", "hashmap", "dfs", "bfs", "two-pointers", "math", "recursion", "codechef", "codeforces", "hackerrank", "dsa", "coding"]
 categories: ["data-structures-and-algorithms", "coding-interview"]
 
-featuredImage: "dsa-in-python.jpg"
-featuredImagePreview: "dsa-in-python.jpg"
+featuredImage: "https://samirpaulb.github.io/assets/dsa-in-python.jpg"
+featuredImagePreview: "https://samirpaulb.github.io/assets/dsa-in-python.jpg"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -53,7 +53,7 @@ library:
     # Or
     # someJS = "https://cdn.example.com/some.js"
 seo:
-  images: ["dsa-in-python.jpg"]
+  images: ["https://samirpaulb.github.io/assets/dsa-in-python.jpg"]
   # ...
 ---
 
