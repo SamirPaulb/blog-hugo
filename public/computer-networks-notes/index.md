@@ -1807,7 +1807,7 @@ Routers network addressing is hierarchical, packets do not normally cycle and th
 
 ### PDF Note👇
 
-<object data="https://samirpaul1.github.io/blog/computer_networking_notes_for_tech_placements.pdf" type="application/pdf" width="100%" height="700px">
+<object data="https://samirpaulb.github.io/assets/computer_networking_notes_for_tech_placements.pdf" type="application/pdf" width="100%" height="700px">
 </object>
 
 
