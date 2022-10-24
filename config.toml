@@ -85,7 +85,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   #  date format
   dateFormat = "2006-01-02"
   # website title for Open Graph and Twitter Cards
-  title = "Technical Blog - Samir Paul"
+  title = "Blog - Samir Paul"
   # website description for RSS, SEO, Open Graph and Twitter Cards
   description = "Technical blog made by developer for developers. Computer Science, Data Structures Algorithms, Networking, Artificial Intelligence and Coding Interview Prep."
   # website images for Open Graph and Twitter Cards
@@ -203,7 +203,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # whether to show social links
       social = true
       #  disclaimer (HTML format is supported)
-      disclaimer = ""
+      disclaimer = "I am Samir Paul, an undergrad student from India. I prioritize clean and reusable code, emphasizing readability to fully engage in a collaborative environment."
     # Home page posts
     [params.home.posts]
       enable = true
