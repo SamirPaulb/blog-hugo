@@ -10,7 +10,7 @@
     <author>Samir Paul</author>
     <guid>https://samirpaul1.github.io/blog/list-of-python-frameworks-libraries-software-and-resources/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="https://raw.githubusercontent.com/SamirPaulb/assets/main/list-of-python-frameworks-libraries-software-and-resources-banner-imag.jpg" referrerpolicy="no-referrer">
+                <img src="/blog/list-of-python-frameworks-libraries-software-and-resources-banner-imag.jpg" referrerpolicy="no-referrer">
             </div><blockquote>
 <p>A curated list of awesome Python frameworks, libraries, software and resources.</p>
 </blockquote>
@@ -1546,7 +1546,7 @@
     <author>Samir Paul</author>
     <guid>https://samirpaul1.github.io/blog/list-of-technical-interview-questions/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="https://raw.githubusercontent.com/SamirPaulb/assets/main/list-of-interview-questions-blog-images.jpeg" referrerpolicy="no-referrer">
+                <img src="/blog/list-of-interview-questions-blog-images.jpeg" referrerpolicy="no-referrer">
             </div><blockquote>
 <p>A curated list of lists of technical interview questions.</p>
 </blockquote>
@@ -2237,7 +2237,7 @@
     <author>Samir Paul</author>
     <guid>https://samirpaul1.github.io/blog/leetcode-solutions-cheatsheet/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="https://samirpaulb.github.io/assets/leetcode-img-blogpost-leetcode-solutions-cheetsheet-md.jpeg" referrerpolicy="no-referrer">
+                <img src="/blog/leetcode-img-blogpost-leetcode-solutions-cheetsheet-md.jpeg" referrerpolicy="no-referrer">
             </div><h2 id="quick-access-links">Quick Access Links</h2>
 <h3 id="leetcode">LeetCode</h3>
 <ul>

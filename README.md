@@ -23,5 +23,5 @@ More instructions:
 5. For deploying on Vercel add environment variable ```0.92.0``` [read more](https://github.com/vercel/vercel/discussions/5834#discussioncomment-2544322).
 6. Use GitHub Actions for deploying on GitHub Pages.
 7. For deploying on Netlify add netlify.toml and in config.toml give baseURL to Netlify domain.
-8. Store resources in the ```/static/assets``` directory and refer it by ```/assets/File_Name```.
+8. Store resources('File_Name') in the ```/static``` directory and refer it by ```File_Name```.
 9. To deploy on Netlify/Vercel change the baseURL of config.toml to Netlify domain.

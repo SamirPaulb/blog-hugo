@@ -1566,7 +1566,7 @@ Routers network addressing is hierarchical, packets do not normally cycle and th
     <author>Samir Paul</author>
     <guid>https://samirpaul1.github.io/blog/list-of-python-frameworks-libraries-software-and-resources/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="https://raw.githubusercontent.com/SamirPaulb/assets/main/list-of-python-frameworks-libraries-software-and-resources-banner-imag.jpg" referrerpolicy="no-referrer">
+                <img src="/blog/list-of-python-frameworks-libraries-software-and-resources-banner-imag.jpg" referrerpolicy="no-referrer">
             </div><blockquote>
 <p>A curated list of awesome Python frameworks, libraries, software and resources.</p>
 </blockquote>
@@ -3102,7 +3102,7 @@ Routers network addressing is hierarchical, packets do not normally cycle and th
     <author>Samir Paul</author>
     <guid>https://samirpaul1.github.io/blog/curated-list-of-project-based-tutorials/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="https://samirpaulb.github.io/assets/curated-list-of-project-based-tutorials-images.png" referrerpolicy="no-referrer">
+                <img src="/blog/curated-list-of-project-based-tutorials-images.png" referrerpolicy="no-referrer">
             </div><h1 id="project-based-learning">Project Based Learning</h1>
 <blockquote>
 <p>A list of programming tutorials in which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages.</p>
@@ -3899,7 +3899,7 @@ Routers network addressing is hierarchical, packets do not normally cycle and th
     <author>Samir Paul</author>
     <guid>https://samirpaul1.github.io/blog/complete-computer-science-study-plan-to-become-a-software-engineer/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="https://samirpaulb.github.io/assets/complete-computer-science-study-plan-to-become-a-software-engineer-images.jpeg" referrerpolicy="no-referrer">
+                <img src="/blog/complete-computer-science-study-plan-to-become-a-software-engineer-images.jpeg" referrerpolicy="no-referrer">
             </div><h2 id="table-of-contents">Table of Contents</h2>
 <h3 id="the-study-plan">The Study Plan</h3>
 <ul>
@@ -6560,7 +6560,7 @@ You want to get hired in this century, right?</p>
     <author>Samir Paul</author>
     <guid>https://samirpaul1.github.io/blog/list-of-technical-interview-questions/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="https://raw.githubusercontent.com/SamirPaulb/assets/main/list-of-interview-questions-blog-images.jpeg" referrerpolicy="no-referrer">
+                <img src="/blog/list-of-interview-questions-blog-images.jpeg" referrerpolicy="no-referrer">
             </div><blockquote>
 <p>A curated list of lists of technical interview questions.</p>
 </blockquote>
@@ -7251,7 +7251,7 @@ You want to get hired in this century, right?</p>
     <author>Samir Paul</author>
     <guid>https://samirpaul1.github.io/blog/leetcode-solutions-cheatsheet/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="https://samirpaulb.github.io/assets/leetcode-img-blogpost-leetcode-solutions-cheetsheet-md.jpeg" referrerpolicy="no-referrer">
+                <img src="/blog/leetcode-img-blogpost-leetcode-solutions-cheetsheet-md.jpeg" referrerpolicy="no-referrer">
             </div><h2 id="quick-access-links">Quick Access Links</h2>
 <h3 id="leetcode">LeetCode</h3>
 <ul>

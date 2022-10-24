@@ -10,7 +10,7 @@
     <author>Samir Paul</author>
     <guid>https://samirpaul1.github.io/blog/list-of-technical-interview-questions/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="https://raw.githubusercontent.com/SamirPaulb/assets/main/list-of-interview-questions-blog-images.jpeg" referrerpolicy="no-referrer">
+                <img src="/blog/list-of-interview-questions-blog-images.jpeg" referrerpolicy="no-referrer">
             </div><blockquote>
 <p>A curated list of lists of technical interview questions.</p>
 </blockquote>
@@ -701,7 +701,7 @@
     <author>Samir Paul</author>
     <guid>https://samirpaul1.github.io/blog/system-design/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="https://samirpaulb.github.io/assets/Getting-Started-with-System-Design-samirpaulb-assets.png" referrerpolicy="no-referrer">
+                <img src="/blog/Getting-Started-with-System-Design-samirpaulb-assets.png" referrerpolicy="no-referrer">
             </div><h1 id="system-design-course">System Design Course</h1>
 <blockquote>
 <p>Learn how to design systems at scale and prepare for system design interviews.</p>
