@@ -4,15 +4,15 @@ date: {{ .Date }}
 draft: false
 author: "Samir Paul"
 authorLink: "https://twitter.com/intent/follow?screen_name=SamirPaulb"
-description: ""
+description: "{{ replace .Name "-" " " | title }}"
 license: "GPL-3.0"
-images: []
+images: ["blog-featured-image.jpg"]
 
 tags: ["coding", "computer-science"]
-categories: ["blog", "coding", "computer-science"]
+categories: ["blog"]
 
-featuredImage: ""
-featuredImagePreview: ""
+featuredImage: "blog-featured-image.jpg"
+featuredImagePreview: "blog-featured-image.jpg"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -32,29 +32,21 @@ code:
   maxShownLines: 50
 math:
   enable: false
-  # ...
 mapbox:
-  # ...
 share:
   enable: true
-  # ...
 comment:
   enable: true
-  # ...
 library:
   css:
-    # someCSS = "some.css"
-    # located in "assets/"
-    # Or
-    # someCSS = "https://cdn.example.com/some.css"
   js:
-    # someJS = "some.js"
-    # located in "assets/"
-    # Or
-    # someJS = "https://cdn.example.com/some.js"
 seo:
-  images: []
-  # ...
+  images: ["blog-featured-image.jpg"]
+  
 ---
+
+
+
+
 
 
