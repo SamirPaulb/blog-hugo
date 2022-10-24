@@ -61,4 +61,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://samirpaul.netlify.app/sitemap.xml
+Sitemap: https://samirpaul1.github.io/sitemap.xml

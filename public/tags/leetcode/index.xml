@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>leetcode - Tag - Technical Blog - Samir Paul</title>
-        <link>https://samirpaul.netlify.app/tags/leetcode/</link>
+        <link>https://samirpaul1.github.io/blog/tags/leetcode/</link>
         <description>leetcode - Tag - Technical Blog - Samir Paul</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Creative Commons Attribution 4.0 International (CC BY 4.0)</copyright><lastBuildDate>Fri, 14 Oct 2022 17:13:35 &#43;0000</lastBuildDate><atom:link href="https://samirpaul.netlify.app/tags/leetcode/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Creative Commons Attribution 4.0 International (CC BY 4.0)</copyright><lastBuildDate>Fri, 14 Oct 2022 17:13:35 &#43;0000</lastBuildDate><atom:link href="https://samirpaul1.github.io/blog/tags/leetcode/" rel="self" type="application/rss+xml" /><item>
     <title>Leetcode Solutions Cheatsheet</title>
-    <link>https://samirpaul.netlify.app/leetcode-solutions-cheatsheet/</link>
+    <link>https://samirpaul1.github.io/blog/leetcode-solutions-cheatsheet/</link>
     <pubDate>Fri, 14 Oct 2022 17:13:35 &#43;0000</pubDate>
     <author>Samir Paul</author>
-    <guid>https://samirpaul.netlify.app/leetcode-solutions-cheatsheet/</guid>
+    <guid>https://samirpaul1.github.io/blog/leetcode-solutions-cheatsheet/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="https://samirpaulb.github.io/assets/leetcode-img-blogpost-leetcode-solutions-cheetsheet-md.jpeg" referrerpolicy="no-referrer">
             </div><h2 id="quick-access-links">Quick Access Links</h2>
@@ -12648,10 +12648,10 @@ Memory Usage: 36.1 MB, less than 100.00% of Java online submissions for Generate
 </item>
 <item>
     <title>Data Structures and Algorithms for Coding Interview</title>
-    <link>https://samirpaul.netlify.app/data-structures-and-algorithms-for-coding-interview/</link>
+    <link>https://samirpaul1.github.io/blog/data-structures-and-algorithms-for-coding-interview/</link>
     <pubDate>Thu, 13 Oct 2022 12:44:34 &#43;0000</pubDate>
     <author>Samir Paul</author>
-    <guid>https://samirpaul.netlify.app/data-structures-and-algorithms-for-coding-interview/</guid>
+    <guid>https://samirpaul1.github.io/blog/data-structures-and-algorithms-for-coding-interview/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="https://samirpaulb.github.io/assets/dsa-in-python.jpg" referrerpolicy="no-referrer">
             </div><div align="center">
