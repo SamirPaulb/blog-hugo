@@ -10,7 +10,7 @@
     <author>Samir Paul</author>
     <guid>https://samirpaul.netlify.app/computer-networks-notes/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/assets/computer-networks-preview-blog-banner.jpg" referrerpolicy="no-referrer">
+                <img src="https://samirpaulb.github.io/assets/computer-networks-preview-blog-banner.jpg" referrerpolicy="no-referrer">
             </div><h1 id="chapter-1-computer-networks-and-the-internet">Chapter 1: Computer Networks and the Internet</h1>
 <h2 id="11-what-is-the-internet">1.1 What is the Internet?</h2>
 <h3 id="111-a-nuts-and-bolts-description">1.1.1 A nuts-and-bolts description</h3>
@@ -1555,7 +1555,7 @@ However to <strong>prevent the cycling of broadcast frames, the active topology 
 Routers network addressing is hierarchical, packets do not normally cycle and the topology is not limited to a spanning tree even when the network has redundant paths. Therefore packets can use the best path between source and destination. But routers are not plug-and-play (a host need the IP to connect) and often have a larger per-packet processing time than switches. Finally two pronunciation cause a lot of disputes.</p>
 <p></p>
 <h3 id="pdf-note">PDF Note👇</h3>
-<object data="https://samirpaul1.github.io/blog/assets/computer_networking_notes_for_tech_placements.pdf" type="application/pdf" width="100%" height="700px">
+<object data="https://samirpaul1.github.io/blog/computer_networking_notes_for_tech_placements.pdf" type="application/pdf" width="100%" height="700px">
 </object>
 ]]></description>
 </item>

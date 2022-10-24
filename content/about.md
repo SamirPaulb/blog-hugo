@@ -60,12 +60,12 @@ seo:
 
 
 <p align="center">
-  <a href="#"> <img src="/assets/welcome.svg"/> </a>
+  <a href="#"> <img src="https://raw.githubusercontent.com/SamirPaulb/assets/main/welcome-samirpaul-blog-about-page.svg"/> </a>
 </p>
 
 
 <p align="center">
-  <a href="#"> <img src="/assets/samir.svg"/> <img src="/assets/paul.svg"/> </a>
+  <a href="#"> <img src="https://raw.githubusercontent.com/SamirPaulb/assets/main/samir-samirpaul-blog-about-page.svg"/> <img src="https://raw.githubusercontent.com/SamirPaulb/assets/main/paul-samirpaul-blog-about-page.svg"/> </a>
 </p>
 
 

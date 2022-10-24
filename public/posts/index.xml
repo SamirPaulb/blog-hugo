@@ -10,7 +10,7 @@
     <author>Samir Paul</author>
     <guid>https://samirpaul.netlify.app/computer-networks-notes/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/assets/computer-networks-preview-blog-banner.jpg" referrerpolicy="no-referrer">
+                <img src="https://samirpaulb.github.io/assets/computer-networks-preview-blog-banner.jpg" referrerpolicy="no-referrer">
             </div><h1 id="chapter-1-computer-networks-and-the-internet">Chapter 1: Computer Networks and the Internet</h1>
 <h2 id="11-what-is-the-internet">1.1 What is the Internet?</h2>
 <h3 id="111-a-nuts-and-bolts-description">1.1.1 A nuts-and-bolts description</h3>
@@ -1555,7 +1555,7 @@ However to <strong>prevent the cycling of broadcast frames, the active topology 
 Routers network addressing is hierarchical, packets do not normally cycle and the topology is not limited to a spanning tree even when the network has redundant paths. Therefore packets can use the best path between source and destination. But routers are not plug-and-play (a host need the IP to connect) and often have a larger per-packet processing time than switches. Finally two pronunciation cause a lot of disputes.</p>
 <p></p>
 <h3 id="pdf-note">PDF Note👇</h3>
-<object data="https://samirpaul1.github.io/blog/assets/computer_networking_notes_for_tech_placements.pdf" type="application/pdf" width="100%" height="700px">
+<object data="https://samirpaul1.github.io/blog/computer_networking_notes_for_tech_placements.pdf" type="application/pdf" width="100%" height="700px">
 </object>
 ]]></description>
 </item>
@@ -1566,7 +1566,7 @@ Routers network addressing is hierarchical, packets do not normally cycle and th
     <author>Samir Paul</author>
     <guid>https://samirpaul.netlify.app/list-of-python-frameworks-libraries-software-and-resources/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/assets/list-of-python-frameworks-libraries-software-and-resources-banner-imag.jpg" referrerpolicy="no-referrer">
+                <img src="https://raw.githubusercontent.com/SamirPaulb/assets/main/list-of-python-frameworks-libraries-software-and-resources-banner-imag.jpg" referrerpolicy="no-referrer">
             </div><blockquote>
 <p>A curated list of awesome Python frameworks, libraries, software and resources.</p>
 </blockquote>
@@ -3102,7 +3102,7 @@ Routers network addressing is hierarchical, packets do not normally cycle and th
     <author>Samir Paul</author>
     <guid>https://samirpaul.netlify.app/curated-list-of-project-based-tutorials/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/assets/curated-list-of-project-based-tutorials-images.png" referrerpolicy="no-referrer">
+                <img src="https://samirpaulb.github.io/assets/curated-list-of-project-based-tutorials-images.png" referrerpolicy="no-referrer">
             </div><h1 id="project-based-learning">Project Based Learning</h1>
 <blockquote>
 <p>A list of programming tutorials in which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages.</p>
@@ -3899,7 +3899,7 @@ Routers network addressing is hierarchical, packets do not normally cycle and th
     <author>Samir Paul</author>
     <guid>https://samirpaul.netlify.app/complete-computer-science-study-plan-to-become-a-software-engineer/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/assets/complete-computer-science-study-plan-to-become-a-software-engineer-images.jpeg" referrerpolicy="no-referrer">
+                <img src="https://samirpaulb.github.io/assets/complete-computer-science-study-plan-to-become-a-software-engineer-images.jpeg" referrerpolicy="no-referrer">
             </div><h2 id="table-of-contents">Table of Contents</h2>
 <h3 id="the-study-plan">The Study Plan</h3>
 <ul>
@@ -6560,7 +6560,7 @@ You want to get hired in this century, right?</p>
     <author>Samir Paul</author>
     <guid>https://samirpaul.netlify.app/list-of-technical-interview-questions/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/assets/list-of-interview-questions-blog-images.jpeg" referrerpolicy="no-referrer">
+                <img src="https://raw.githubusercontent.com/SamirPaulb/assets/main/list-of-interview-questions-blog-images.jpeg" referrerpolicy="no-referrer">
             </div><blockquote>
 <p>A curated list of lists of technical interview questions.</p>
 </blockquote>
@@ -7251,7 +7251,7 @@ You want to get hired in this century, right?</p>
     <author>Samir Paul</author>
     <guid>https://samirpaul.netlify.app/leetcode-solutions-cheatsheet/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/assets/leetcode-img-blogpost-leetcode-solutions-cheetsheet-md.jpeg" referrerpolicy="no-referrer">
+                <img src="https://samirpaulb.github.io/assets/leetcode-img-blogpost-leetcode-solutions-cheetsheet-md.jpeg" referrerpolicy="no-referrer">
             </div><h2 id="quick-access-links">Quick Access Links</h2>
 <h3 id="leetcode">LeetCode</h3>
 <ul>
@@ -19894,7 +19894,7 @@ Memory Usage: 36.1 MB, less than 100.00% of Java online submissions for Generate
     <author>Samir Paul</author>
     <guid>https://samirpaul.netlify.app/data-structures-and-algorithms-for-coding-interview/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/assets/dsa-in-python.jpg" referrerpolicy="no-referrer">
+                <img src="https://samirpaulb.github.io/assets/dsa-in-python.jpg" referrerpolicy="no-referrer">
             </div><div align="center">
 <h1>Data Structures & Algorithms for Coding Interview</h1>
 <b><i>If you appreciate my work, please</i></b> 🌟 <b><i>this repository. It motivates me. 🚀🚀</i></b>
@@ -22753,7 +22753,7 @@ say for 3-10 minutes when he asks you that say something about the project.</li>
     <author>Samir Paul</author>
     <guid>https://samirpaul.netlify.app/system-design/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/assets/Getting-Started-with-System-Design-samirpaulb-assets.png" referrerpolicy="no-referrer">
+                <img src="https://samirpaulb.github.io/assets/Getting-Started-with-System-Design-samirpaulb-assets.png" referrerpolicy="no-referrer">
             </div><h1 id="system-design-course">System Design Course</h1>
 <blockquote>
 <p>Learn how to design systems at scale and prepare for system design interviews.</p>

@@ -6,13 +6,13 @@ author: "Samir Paul"
 authorLink: "https://twitter.com/intent/follow?screen_name=SamirPaulb"
 description: "Study Plan to Become a Software Engineer"
 license: "GPL-3.0"
-images: ["/assets/complete-computer-science-study-plan-to-become-a-software-engineer-images.jpeg"]
+images: ["https://samirpaulb.github.io/assets/complete-computer-science-study-plan-to-become-a-software-engineer-images.jpeg"]
 
 tags: ["coding", "computer-science", "study-plan"]
 categories: ["computer-science"]
 
-featuredImage: "/assets/complete-computer-science-study-plan-to-become-a-software-engineer-images.jpeg"
-featuredImagePreview: "/assets/complete-computer-science-study-plan-to-become-a-software-engineer-images.jpeg"
+featuredImage: "https://samirpaulb.github.io/assets/complete-computer-science-study-plan-to-become-a-software-engineer-images.jpeg"
+featuredImagePreview: "https://samirpaulb.github.io/assets/complete-computer-science-study-plan-to-become-a-software-engineer-images.jpeg"
 
 hiddenFromHomePage: true
 hiddenFromSearch: false
@@ -53,7 +53,7 @@ library:
     # Or
     # someJS = "https://cdn.example.com/some.js"
 seo:
-  images: ["/assets/complete-computer-science-study-plan-to-become-a-software-engineer-images.jpeg"]
+  images: ["https://raw.githubusercontent.com/SamirPaulb/assets/main/complete-computer-science-study-plan-to-become-a-software-engineer-images.jpeg"]
   # ...
 ---
 

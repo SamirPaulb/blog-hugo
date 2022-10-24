@@ -6,13 +6,13 @@ author: "Samir Paul"
 authorLink: "https://twitter.com/intent/follow?screen_name=SamirPaulb"
 description: "All Concepts of Computer Networking"
 license: "GPL-3.0"
-images: ["/assets/computer-networks-preview-blog-banner.jpg"]
+images: ["https://samirpaulb.github.io/assets/computer-networks-preview-blog-banner.jpg"]
 
 tags: ["coding", "computer-science", "computer-networks", "computer-networks-notes", "notes", "computernetwork", "computernetworking", "computer", "ipv", "icnd", "computertechnology", "ccna", "routingandswitching", "networking", "osi-model", "computernetworkingtechnology"]
 categories: ["computer-networks", "computer-science"]
 
-featuredImage: "/assets/computer-networks-preview-blog-banner.jpg"
-featuredImagePreview: "/assets/computer-networks-preview-blog-banner.jpg"
+featuredImage: "https://samirpaulb.github.io/assets/computer-networks-preview-blog-banner.jpg"
+featuredImagePreview: "https://samirpaulb.github.io/assets/computer-networks-preview-blog-banner.jpg"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -53,7 +53,7 @@ library:
     # Or
     # someJS = "https://cdn.example.com/some.js"
 seo:
-  images: ["/assets/computer-networks-preview-blog-banner.jpg"]
+  images: ["https://samirpaulb.github.io/assets/computer-networks-preview-blog-banner.jpg"]
   # ...
 ---
 
@@ -1863,6 +1863,6 @@ Routers network addressing is hierarchical, packets do not normally cycle and th
 
 ### PDF Note👇
 
-<object data="https://samirpaul1.github.io/blog/assets/computer_networking_notes_for_tech_placements.pdf" type="application/pdf" width="100%" height="700px">
+<object data="https://samirpaul1.github.io/blog/computer_networking_notes_for_tech_placements.pdf" type="application/pdf" width="100%" height="700px">
 </object>
 
