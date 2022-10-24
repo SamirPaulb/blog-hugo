@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>grpc - Tag - Technical Blog - Samir Paul</title>
+        <title>grpc - Tag - Blog - Samir Paul</title>
         <link>https://samirpaul1.github.io/blog/tags/grpc/</link>
-        <description>grpc - Tag - Technical Blog - Samir Paul</description>
+        <description>grpc - Tag - Blog - Samir Paul</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Creative Commons Attribution 4.0 International (CC BY 4.0)</copyright><lastBuildDate>Tue, 04 Oct 2022 15:58:26 &#43;0800</lastBuildDate><atom:link href="https://samirpaul1.github.io/blog/tags/grpc/" rel="self" type="application/rss+xml" /><item>
     <title>System Design Course</title>
     <link>https://samirpaul1.github.io/blog/system-design/</link>

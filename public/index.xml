@@ -1,6 +1,6 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Technical Blog - Samir Paul</title>
+        <title>Blog - Samir Paul</title>
         <link>https://samirpaul1.github.io/blog/</link>
         <description>Technical blog made by developer for developers. Computer Science, Data Structures Algorithms, Networking, Artificial Intelligence and Coding Interview Prep.</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Creative Commons Attribution 4.0 International (CC BY 4.0)</copyright><lastBuildDate>Wed, 19 Oct 2022 19:06:24 &#43;0530</lastBuildDate>

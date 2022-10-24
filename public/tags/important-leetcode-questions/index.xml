@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>important-leetcode-questions - Tag - Technical Blog - Samir Paul</title>
+        <title>important-leetcode-questions - Tag - Blog - Samir Paul</title>
         <link>https://samirpaul1.github.io/blog/tags/important-leetcode-questions/</link>
-        <description>important-leetcode-questions - Tag - Technical Blog - Samir Paul</description>
+        <description>important-leetcode-questions - Tag - Blog - Samir Paul</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Creative Commons Attribution 4.0 International (CC BY 4.0)</copyright><lastBuildDate>Fri, 14 Oct 2022 17:13:35 &#43;0000</lastBuildDate><atom:link href="https://samirpaul1.github.io/blog/tags/important-leetcode-questions/" rel="self" type="application/rss+xml" /><item>
     <title>Leetcode Solutions Cheatsheet</title>
     <link>https://samirpaul1.github.io/blog/leetcode-solutions-cheatsheet/</link>

@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>tutorials - Tag - Technical Blog - Samir Paul</title>
+        <title>tutorials - Tag - Blog - Samir Paul</title>
         <link>https://samirpaul1.github.io/blog/tags/tutorials/</link>
-        <description>tutorials - Tag - Technical Blog - Samir Paul</description>
+        <description>tutorials - Tag - Blog - Samir Paul</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Creative Commons Attribution 4.0 International (CC BY 4.0)</copyright><lastBuildDate>Sun, 16 Oct 2022 14:25:55 &#43;0530</lastBuildDate><atom:link href="https://samirpaul1.github.io/blog/tags/tutorials/" rel="self" type="application/rss+xml" /><item>
     <title>Curated List of Project Based Tutorials</title>
     <link>https://samirpaul1.github.io/blog/curated-list-of-project-based-tutorials/</link>

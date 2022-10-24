@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>string - Tag - Technical Blog - Samir Paul</title>
+        <title>string - Tag - Blog - Samir Paul</title>
         <link>https://samirpaul1.github.io/blog/tags/string/</link>
-        <description>string - Tag - Technical Blog - Samir Paul</description>
+        <description>string - Tag - Blog - Samir Paul</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Creative Commons Attribution 4.0 International (CC BY 4.0)</copyright><lastBuildDate>Thu, 13 Oct 2022 12:44:34 &#43;0000</lastBuildDate><atom:link href="https://samirpaul1.github.io/blog/tags/string/" rel="self" type="application/rss+xml" /><item>
     <title>Data Structures and Algorithms for Coding Interview</title>
     <link>https://samirpaul1.github.io/blog/data-structures-and-algorithms-for-coding-interview/</link>
