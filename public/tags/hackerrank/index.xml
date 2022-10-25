@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>hackerrank - Tag - Blog - Samir Paul</title>
-        <link>/blog/tags/hackerrank/</link>
+        <link>https://samirpaul1.github.io/blog/tags/hackerrank/</link>
         <description>hackerrank - Tag - Blog - Samir Paul</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Creative Commons Attribution 4.0 International (CC BY 4.0)</copyright><lastBuildDate>Thu, 13 Oct 2022 12:44:34 &#43;0000</lastBuildDate><atom:link href="/blog/tags/hackerrank/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Creative Commons Attribution 4.0 International (CC BY 4.0)</copyright><lastBuildDate>Thu, 13 Oct 2022 12:44:34 &#43;0000</lastBuildDate><atom:link href="https://samirpaul1.github.io/blog/tags/hackerrank/" rel="self" type="application/rss+xml" /><item>
     <title>Data Structures and Algorithms for Coding Interview</title>
-    <link>/blog/data-structures-and-algorithms-for-coding-interview/</link>
+    <link>https://samirpaul1.github.io/blog/data-structures-and-algorithms-for-coding-interview/</link>
     <pubDate>Thu, 13 Oct 2022 12:44:34 &#43;0000</pubDate>
     <author>Samir Paul</author>
-    <guid>/blog/data-structures-and-algorithms-for-coding-interview/</guid>
+    <guid>https://samirpaul1.github.io/blog/data-structures-and-algorithms-for-coding-interview/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="https://samirpaulb.github.io/assets/dsa-in-python.jpg" referrerpolicy="no-referrer">
             </div><div align="center">

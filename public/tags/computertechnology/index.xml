@@ -1,16 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>computertechnology - Tag - Blog - Samir Paul</title>
-        <link>/blog/tags/computertechnology/</link>
+        <link>https://samirpaul1.github.io/blog/tags/computertechnology/</link>
         <description>computertechnology - Tag - Blog - Samir Paul</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Creative Commons Attribution 4.0 International (CC BY 4.0)</copyright><lastBuildDate>Wed, 19 Oct 2022 19:06:24 &#43;0530</lastBuildDate><atom:link href="/blog/tags/computertechnology/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Creative Commons Attribution 4.0 International (CC BY 4.0)</copyright><lastBuildDate>Wed, 19 Oct 2022 19:06:24 &#43;0530</lastBuildDate><atom:link href="https://samirpaul1.github.io/blog/tags/computertechnology/" rel="self" type="application/rss+xml" /><item>
     <title>Computer Networks Notes</title>
-    <link>/blog/computer-networks-notes/</link>
+    <link>https://samirpaul1.github.io/blog/computer-networks-notes/</link>
     <pubDate>Wed, 19 Oct 2022 19:06:24 &#43;0530</pubDate>
     <author>Samir Paul</author>
-    <guid>/blog/computer-networks-notes/</guid>
+    <guid>https://samirpaul1.github.io/blog/computer-networks-notes/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/assets/computer-networks-preview-blog-banner.jpg" referrerpolicy="no-referrer">
+                <img src="https://samirpaulb.github.io/assets/computer-networks-preview-blog-banner.jpg" referrerpolicy="no-referrer">
             </div><h1 id="chapter-1-computer-networks-and-the-internet">Chapter 1: Computer Networks and the Internet</h1>
 <h2 id="11-what-is-the-internet">1.1 What is the Internet?</h2>
 <h3 id="111-a-nuts-and-bolts-description">1.1.1 A nuts-and-bolts description</h3>
