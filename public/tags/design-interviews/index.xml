@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>design-interviews - Tag - Blog - Samir Paul</title>
-        <link>https://samirpaul1.github.io/blog/tags/design-interviews/</link>
+        <link>/blog/tags/design-interviews/</link>
         <description>design-interviews - Tag - Blog - Samir Paul</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Creative Commons Attribution 4.0 International (CC BY 4.0)</copyright><lastBuildDate>Tue, 04 Oct 2022 15:58:26 &#43;0800</lastBuildDate><atom:link href="https://samirpaul1.github.io/blog/tags/design-interviews/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Creative Commons Attribution 4.0 International (CC BY 4.0)</copyright><lastBuildDate>Tue, 04 Oct 2022 15:58:26 &#43;0800</lastBuildDate><atom:link href="/blog/tags/design-interviews/" rel="self" type="application/rss+xml" /><item>
     <title>System Design Course</title>
-    <link>https://samirpaul1.github.io/blog/system-design/</link>
+    <link>/blog/system-design/</link>
     <pubDate>Tue, 04 Oct 2022 15:58:26 &#43;0800</pubDate>
     <author>Samir Paul</author>
-    <guid>https://samirpaul1.github.io/blog/system-design/</guid>
+    <guid>/blog/system-design/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="https://samirpaulb.github.io/assets/Getting-Started-with-System-Design-samirpaulb-assets.png" referrerpolicy="no-referrer">
             </div><h1 id="system-design-course">System Design Course</h1>

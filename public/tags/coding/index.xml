@@ -1,16 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>coding - Tag - Blog - Samir Paul</title>
-        <link>https://samirpaul1.github.io/blog/tags/coding/</link>
+        <link>/blog/tags/coding/</link>
         <description>coding - Tag - Blog - Samir Paul</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Creative Commons Attribution 4.0 International (CC BY 4.0)</copyright><lastBuildDate>Wed, 19 Oct 2022 19:06:24 &#43;0530</lastBuildDate><atom:link href="https://samirpaul1.github.io/blog/tags/coding/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Creative Commons Attribution 4.0 International (CC BY 4.0)</copyright><lastBuildDate>Wed, 19 Oct 2022 19:06:24 &#43;0530</lastBuildDate><atom:link href="/blog/tags/coding/" rel="self" type="application/rss+xml" /><item>
     <title>Computer Networks Notes</title>
-    <link>https://samirpaul1.github.io/blog/computer-networks-notes/</link>
+    <link>/blog/computer-networks-notes/</link>
     <pubDate>Wed, 19 Oct 2022 19:06:24 &#43;0530</pubDate>
     <author>Samir Paul</author>
-    <guid>https://samirpaul1.github.io/blog/computer-networks-notes/</guid>
+    <guid>/blog/computer-networks-notes/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="https://samirpaulb.github.io/assets/computer-networks-preview-blog-banner.jpg" referrerpolicy="no-referrer">
+                <img src="/assets/computer-networks-preview-blog-banner.jpg" referrerpolicy="no-referrer">
             </div><h1 id="chapter-1-computer-networks-and-the-internet">Chapter 1: Computer Networks and the Internet</h1>
 <h2 id="11-what-is-the-internet">1.1 What is the Internet?</h2>
 <h3 id="111-a-nuts-and-bolts-description">1.1.1 A nuts-and-bolts description</h3>
@@ -1561,10 +1561,10 @@ Routers network addressing is hierarchical, packets do not normally cycle and th
 </item>
 <item>
     <title>List of Python Frameworks Libraries Software and Resources</title>
-    <link>https://samirpaul1.github.io/blog/list-of-python-frameworks-libraries-software-and-resources/</link>
+    <link>/blog/list-of-python-frameworks-libraries-software-and-resources/</link>
     <pubDate>Sun, 16 Oct 2022 14:36:25 &#43;0530</pubDate>
     <author>Samir Paul</author>
-    <guid>https://samirpaul1.github.io/blog/list-of-python-frameworks-libraries-software-and-resources/</guid>
+    <guid>/blog/list-of-python-frameworks-libraries-software-and-resources/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="https://raw.githubusercontent.com/SamirPaulb/assets/main/list-of-python-frameworks-libraries-software-and-resources-banner-imag.jpg" referrerpolicy="no-referrer">
             </div><blockquote>
@@ -3097,10 +3097,10 @@ Routers network addressing is hierarchical, packets do not normally cycle and th
 </item>
 <item>
     <title>Curated List of Project Based Tutorials</title>
-    <link>https://samirpaul1.github.io/blog/curated-list-of-project-based-tutorials/</link>
+    <link>/blog/curated-list-of-project-based-tutorials/</link>
     <pubDate>Sun, 16 Oct 2022 14:25:55 &#43;0530</pubDate>
     <author>Samir Paul</author>
-    <guid>https://samirpaul1.github.io/blog/curated-list-of-project-based-tutorials/</guid>
+    <guid>/blog/curated-list-of-project-based-tutorials/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="https://samirpaulb.github.io/assets/curated-list-of-project-based-tutorials-images.png" referrerpolicy="no-referrer">
             </div><h1 id="project-based-learning">Project Based Learning</h1>
@@ -3894,10 +3894,10 @@ Routers network addressing is hierarchical, packets do not normally cycle and th
 </item>
 <item>
     <title>Complete Computer Science Study Plan to Become a Software Engineer</title>
-    <link>https://samirpaul1.github.io/blog/complete-computer-science-study-plan-to-become-a-software-engineer/</link>
+    <link>/blog/complete-computer-science-study-plan-to-become-a-software-engineer/</link>
     <pubDate>Sun, 16 Oct 2022 14:18:19 &#43;0530</pubDate>
     <author>Samir Paul</author>
-    <guid>https://samirpaul1.github.io/blog/complete-computer-science-study-plan-to-become-a-software-engineer/</guid>
+    <guid>/blog/complete-computer-science-study-plan-to-become-a-software-engineer/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="https://samirpaulb.github.io/assets/complete-computer-science-study-plan-to-become-a-software-engineer-images.jpeg" referrerpolicy="no-referrer">
             </div><h2 id="table-of-contents">Table of Contents</h2>
@@ -6555,10 +6555,10 @@ You want to get hired in this century, right?</p>
 </item>
 <item>
     <title>List of Technical Interview Questions</title>
-    <link>https://samirpaul1.github.io/blog/list-of-technical-interview-questions/</link>
+    <link>/blog/list-of-technical-interview-questions/</link>
     <pubDate>Sun, 16 Oct 2022 13:52:48 &#43;0530</pubDate>
     <author>Samir Paul</author>
-    <guid>https://samirpaul1.github.io/blog/list-of-technical-interview-questions/</guid>
+    <guid>/blog/list-of-technical-interview-questions/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="https://raw.githubusercontent.com/SamirPaulb/assets/main/list-of-interview-questions-blog-images.jpeg" referrerpolicy="no-referrer">
             </div><blockquote>
@@ -7246,10 +7246,10 @@ You want to get hired in this century, right?</p>
 </item>
 <item>
     <title>Leetcode Solutions Cheatsheet</title>
-    <link>https://samirpaul1.github.io/blog/leetcode-solutions-cheatsheet/</link>
+    <link>/blog/leetcode-solutions-cheatsheet/</link>
     <pubDate>Fri, 14 Oct 2022 17:13:35 &#43;0000</pubDate>
     <author>Samir Paul</author>
-    <guid>https://samirpaul1.github.io/blog/leetcode-solutions-cheatsheet/</guid>
+    <guid>/blog/leetcode-solutions-cheatsheet/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="https://samirpaulb.github.io/assets/leetcode-img-blogpost-leetcode-solutions-cheetsheet-md.jpeg" referrerpolicy="no-referrer">
             </div><h2 id="quick-access-links">Quick Access Links</h2>
@@ -19889,10 +19889,10 @@ Memory Usage: 36.1 MB, less than 100.00% of Java online submissions for Generate
 </item>
 <item>
     <title>Data Structures and Algorithms for Coding Interview</title>
-    <link>https://samirpaul1.github.io/blog/data-structures-and-algorithms-for-coding-interview/</link>
+    <link>/blog/data-structures-and-algorithms-for-coding-interview/</link>
     <pubDate>Thu, 13 Oct 2022 12:44:34 &#43;0000</pubDate>
     <author>Samir Paul</author>
-    <guid>https://samirpaul1.github.io/blog/data-structures-and-algorithms-for-coding-interview/</guid>
+    <guid>/blog/data-structures-and-algorithms-for-coding-interview/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="https://samirpaulb.github.io/assets/dsa-in-python.jpg" referrerpolicy="no-referrer">
             </div><div align="center">

@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>about-me - Tag - Blog - Samir Paul</title>
-        <link>https://samirpaul1.github.io/blog/tags/about-me/</link>
+        <link>/blog/tags/about-me/</link>
         <description>about-me - Tag - Blog - Samir Paul</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Creative Commons Attribution 4.0 International (CC BY 4.0)</copyright><lastBuildDate>Sat, 15 Oct 2022 10:08:05 &#43;0530</lastBuildDate><atom:link href="https://samirpaul1.github.io/blog/tags/about-me/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Creative Commons Attribution 4.0 International (CC BY 4.0)</copyright><lastBuildDate>Sat, 15 Oct 2022 10:08:05 &#43;0530</lastBuildDate><atom:link href="/blog/tags/about-me/" rel="self" type="application/rss+xml" /><item>
     <title>About</title>
-    <link>https://samirpaul1.github.io/blog/about/</link>
+    <link>/blog/about/</link>
     <pubDate>Sat, 15 Oct 2022 10:08:05 &#43;0530</pubDate>
     <author>Samir Paul</author>
-    <guid>https://samirpaul1.github.io/blog/about/</guid>
+    <guid>/blog/about/</guid>
     <description><![CDATA[<p align="center">
   <a href="#">  </a>
 </p>
