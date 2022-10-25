@@ -386,9 +386,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Disqus comment config
       [params.page.comment.disqus]
         # 
-        enable = false
+        enable = true
         # Disqus shortname to use Disqus in posts
-        shortname = ""
+        shortname = "samirpaul"
       # Gitalk comment config
       [params.page.comment.gitalk]
         # 
@@ -452,18 +452,18 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # giscus comment config (https://giscus.app/)
       [params.page.comment.giscus]
         # You can refer to the official documentation of giscus to use the following configuration.
-        enable = true
-        repo = "SamirPaulb/comments"
-        repoId = "R_kgDOIMPz0Q"
-        category = "General"
-        categoryId = "DIC_kwDOIMPz0c4CR7E4"
+        enable = false
+        repo = ""
+        repoId = ""
+        category = "Announcements"
+        categoryId = ""
         # automatically adapt the current theme i18n configuration when empty
-        lang = "en"
+        lang = ""
         mapping = "pathname"
         reactionsEnabled = "1"
-        emitMetadata = "1"
-        inputPosition = "top"
-        lazyLoading = true
+        emitMetadata = "0"
+        inputPosition = "bottom"
+        lazyLoading = false
         lightTheme = "light"
         darkTheme = "dark"
     #  Third-party library config
