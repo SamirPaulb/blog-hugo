@@ -75,7 +75,7 @@ seo:
   🎓 &nbsp;I'm currently studying Electronics and Communication Engineering at National Institute of Technology, Durgapur.\
   💡 &nbsp;Some technologies I enjoy working with include Python, MySQL, Git, HTML, CSS, C, Linux.\
   🌱 &nbsp;I'm on track for learning more about Data Structures and Algorithm, Software Development, Systems Design.\
-  💻 &nbsp;I am practising on [LeetCode](https://leetcode.com/samirpaul1), [CodeChef](https://www.codechef.com/users/samirpaul1), [HackerRank](https://www.hackerrank.com/samirpaul1) and [GeeksforGeeks](https://auth.geeksforgeeks.org/user/samirpaul1/practice).\
+  💻 &nbsp;I am practising on [LeetCode](https://leetcode.com/samirpaulb), [CodeChef](https://www.codechef.com/users/samirpaul1), [HackerRank](https://www.hackerrank.com/samirpaul1) and [GeeksforGeeks](https://auth.geeksforgeeks.org/user/samirpaul1/practice).\
   ✉️ &nbsp;Get in touch with me via email at ```samirpaulb [at] gmail [dot] com``` or connect on [LinkedIn](https://www.linkedin.com/in/SamirPaul). 
 
 
@@ -152,5 +152,5 @@ seo:
 
   
 <p align=center>                           
-  <a href="https://github.com/SamirPaul1"><img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=sabesansathananthan.sabesansathananthan" alt="Visitors"></a>     
+  <a href="https://github.com/SamirPaulb"><img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=sabesansathananthan.sabesansathananthan" alt="Visitors"></a>     
 </p>

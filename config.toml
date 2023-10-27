@@ -1,4 +1,4 @@
-baseURL = "https://samirpaul1.github.io/blog-hugo"
+baseURL = "https://samirpaulb.github.io/blog-hugo"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
@@ -215,7 +215,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   # Social config about the author
   [params.social]
-    GitHub = "SamirPaul1"
+    GitHub = "SamirPaulb"
     Linkedin = "SamirPaul"
     Twitter = "SamirPaulb"
     Instagram = "SamirPaulb"

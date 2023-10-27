@@ -1,7 +1,7 @@
-## SamirPaul1/blog
+## SamirPaulb/blog
 
 Live Demo: \
-👉 **https://samirpaul1.github.io/blog-hugo** 
+👉 **https://samirpaulb.github.io/blog-hugo** 
 
 
 Created using [Hugo](https://gohugo.io/getting-started/installing/) and [**LoveIt theme**](https://github.com/dillonzq/LoveIt).
